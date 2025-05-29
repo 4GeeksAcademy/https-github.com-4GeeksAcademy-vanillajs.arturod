@@ -1,5 +1,13 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: lightblue;
+}
+#resultado {
+    background-color:  lightslategray;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border: 14px solid black;
+    margin-top: 70px;
 }
